@@ -27,7 +27,7 @@ DBMS, Computer Networks, OOPs, Operating Systems
 **VIT Bhopal University**  
 *B.Tech in Computer Science and Engineering*  
 Oct 2022 – June 2026  
-- GPA: 8.87/10
+- GPA: 8.93/10
 
 ---
 
